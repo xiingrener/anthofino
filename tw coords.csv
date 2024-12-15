@@ -1,0 +1,69 @@
+Object Number,Section Number,Restuarant Name,Restaurant Street Address,Restaurant City,State,Pattern,Pattern varient,Additional Design,Vessel form,Rim Diameter (cm),Vessel Height (in cm),Thickness of Vessel Walls (in mm),Thickness of Lip (in mm),Foot Rim Diameter (cm),Height of foot (in mm),Mark (use letter code sheet),"Sticker (use code, 0=none)",Weight (in grams),Year Opened,Year Closed,Additional Design.1,Style of Food Sold,Surname,Place of Birth,Date Range for Artifact,Citation/Link,Photos,full_address,latitude,longitude
+FSL-095,104,Woo's Garden,11035 S. Crenshaw,Inglewood,CA,Two (2 Women),TW I,,cup,6,4.8,7.326,8.691,3.6,2,D,0,165.06,,,,,,,,,,"11035 S. Crenshaw, Inglewood, CA",33.93544686,-118.3265025
+FSL-102,107,The Polynesian,Herschel at Silverado,La Jolla,CA,Two (TW,TW 1,,cup,7.7,5,5,7,1.5,3,D,0,,≤1960,≥1980,,,,,,,,"Herschel at Silverado, La Jolla, CA",32.84539726,-117.2727941
+FSL-087,102,Royal Canton Cafe,641 1st St,Encinitas,CA,Two Women,TW1,"Restaurant Logo w ""Guang Dong"" written in Chinese",Teacup,7.5,4.7,5.407,7.496,3.7,2,D,0,143.33,1980,2012,,,,,,,,"641 1st St, Encinitas, CA",33.03581964,-117.2924413
+FSL-088,102,Ming's Chinese,17812 S. Bellflower Blvd,Bellflower,CA,Two Women,TW1,Restaurant Logo,Teacup,7.5,5,6.009,7.764,3.7,3,D,0,142.8,1952,2018,,,,,,,,"17812 S. Bellflower Blvd, Bellflower, CA",33.87082392,-118.1248832
+FSL-098,102,Lem's Cafe,320 E. First St.,Los Angeles,CA,Two Women,TW 1,Resturant Name,Teacup,7.3,5.2,5.703,6.936,3.7,2,D,0,135.93,,,,Chinese (mandarin),Lim,,,,,"320 E. First St., Los Angeles, CA",34.04431033,-117.817623
+FSL-103,103,Yuet Sue's Tea House,2332 S. Mooney Blvd,Visali,CA,Two Women,TW 1,Restaurant Logo,Teacup,7.5,4.9,0.607,0.7,3.7,0.3,B,0,147.08,1960,TBD (sometime before 2024; currently is a Denny's),,Chinese (mandarin),Sue,,1960s,,,"2332 S. Mooney Blvd, Visali, CA",36.30952427,-119.3134744
+FSL-109,102,Ace Chop Suey,7001 E. 14th. St.,Oakland,CA,Two Women,TW1,restaurant logo,Teaup,7.5,4.7,5.324,6.806,3.5,2,K,0,129,1950,,,,,,,,,"7001 E. 14th. St., Oakland, CA",37.76004275,-122.1894605
+FSL-112,102,The Polynesian Restaurant,7805 Herschel Avenue,La Jolla,CA,Two Women,TW I,Restaurant Logo,Teacup,7.6,5.2,6.7,5.1,3.8,2,D,0,126.69,,,,"Chinese, Cantonese, Polynesian inspired",Chung,Canton,1960s,,,"7805 Herschel Avenue, La Jolla, CA",32.84558414,-117.2727282
+FSL-280,102,Fong's Chinese Dihn-s,4608 E. Tulare St.,Fresno,CA,Two Women,TW1,Resturant Logo,Teacup,7.4,4.8,5.258,5,3.5,2,B,0,154.3,1957,Still in business,,,Fong,,,,,"4608 E. Tulare St., Fresno, CA",36.74403097,-119.6737604
+FSL-086,103,Pagoda Cafe,911 Glenwood St.,Delano,CA,Two women,TW I,Gold trim,Teacup,7.1,5,6.34,6.94,3.1,3,B,0,135,,1988,,Chinese Takeout,Wong,China,,,,"911 Glenwood St., Delano, CA",35.76754669,-119.2485384
+FSL-097,103,Young China Cafe,5122 Whittier Blvd.,Los Angeles,CA,Two women,TW II,,Teacup,7.6,5.65,6.361,6.348,3.7,5,E,0,144.57,nonexistant info :((,,,,,,,,,"5122 Whittier Blvd., Los Angeles, CA",34.020702,-118.1590802
+FSL-099,103,Kaye's Korner,,Riverside,CA,Two Women,TW 1,"Trees, Shrubs",Tea Cup,7.6,4.9,5.4,8,3.8,3,D,FSL-99,138.92,No info. No record of Kaye's Corner,No info. No record of Kaye's Corner.,,,,,,,,,34.220389,70.3800314
+FSL-113,103,Sampan,420 S Brookhurst,Brookhurst,CA,Two women,TWII,Restaurant picture,Tea Cup,7.5,5,7,8,3.5,5,G,FSL-113,151.35,1960s,2012?,N2SB on 1960 catalogue,,,,,,,"420 S Brookhurst, Brookhurst, CA",33.82697782,-117.9585707
+FSL-083,104,Chungking Cafe,327 E. Center St.,Anaheim,CA,Two Women,TW1,"yes, restaurant information",cup,7.8,5.2,3.5,1,3.2,2,D,0,80.04,na,,,,,,,,,"327 E. Center St., Anaheim, CA",33.83622559,-117.9107468
+FSL-107,104,Sampan Cantonese Cusine,420 S. Brookhurst,Anaheim,CA,Two Women,TWII,N.A,Cup,8.8,4.8,7.4,8.25,3.7,4,E,0,156.1,,,,,,,,,,"420 S. Brookhurst, Anaheim, CA",33.8268715,-117.9585425
+FSL-104,105,Lim's Cafe,592 N.Market St,Redding,CA,Two Women,TW I,"Some plants and building, one window",Tea cup,7.5cm,5cm,8mm,10mm,3.7cm,4mm,D,0,149.72g,,,,,,,,,,"592 N.Market St, Redding, CA",40.59833409,-122.3850359
+FSL-283,108,Jimmy's Oriental Gardens,"Santa Barbara, California",Santa Barbara,CA,Two Women,TWI,,Cup,6cm,4.5cm,7.77mm,7.92mm,3.25cm,0.25mm,E,0,175.63g,1947,2006,,"American Chinese, eventually incorporated Szechuan",Chung,China,1960-2006,,,"Santa Barbara, California, Santa Barbara , CA",34.4221319,-119.702667
+FSL-090,103,Holly Cafe,1429 Market ST.,Redding,CA,Two women,TW11,,Tea Cup,7.6,5.1,5.9,6.9,3.6,5,E,0,138.59,,,,,,,,,,"1429 Market ST., Redding , CA",40.58494473,-122.3909746
+FSL-089,104,Royal Canton Cafe,641 First St.,Encinitas,CA,Two Women,TWI,"Yes, Restaurant stamp on the other side of the cup",cup,7.6,4.4,6.7,7.18,3.8,2,D,0,137.22,"n/a: but was located on what is now S Coast Hwy 101  in downtown Encinitas, Ca according to the address. ",,,,,,,,,"641 First St., Encinitas , CA",33.03660829,-117.2925813
+FSL-093,102,The Great Wall,232 South Glendora Ave.,West Covina (Los Angeles),CA,Two Women seated in greenery,TW1,Restaurant name logo,Teacup,7.5,4.4,5.764,6.702,3.7,2,B,0,139.95,---,Present,,,,,,,,"232 South Glendora Ave., West Covina (Los Angeles), CA",34.06989348,-117.9223004
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,"425 Gin Ling Way, Los Angeles, CA",34.0658681,-118.2379115
