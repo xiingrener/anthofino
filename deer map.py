@@ -12,7 +12,7 @@ heat_data = data_with_coords[['latitude', 'longitude']].values.tolist()
 
 HeatMap(heat_data).add_to(base_map)
 
-output_map_path = 'tw map.html'
+output_map_path = 'deer map.html'
 base_map.save(output_map_path)
 
 output_map_path
